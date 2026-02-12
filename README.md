@@ -4,7 +4,7 @@
 追影网（影视网站记录卡）
 
 站点名称：追影网
-站点链接：https://www.gsminzu.com/
+站点链接：https://www.tmecorn.com/
 
 站点类型：影视
 访问情况：可访问
